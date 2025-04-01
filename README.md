@@ -33,6 +33,8 @@ O **Semantic Kernel** agrega valor para empresas e desenvolvedores ao:
 ## Exemplo de Uso com C#
 Para explorar os conceitos do **Semantic Kernel**, foi utilizado o exemplo disponível na [documentação oficial](https://learn.microsoft.com/pt-br/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-csharp). Esse exemplo demonstra como criar um kernel básico em **C#**, configurar um modelo OpenAI e executar um prompt utilizando o SDK.
 
+[GitHub](https://github.com/microsoft/semantic-kernel)
+
 ### Exemplo Simples
 ```csharp
 using Microsoft.SemanticKernel;
